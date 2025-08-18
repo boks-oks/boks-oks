@@ -1,16 +1,23 @@
-working on making a profile readme
+Hi, I'm boks.
 
-<!--
-**boks-oks/boks-oks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My interests:
+- Community revival projects of deprecated software
+- Game dev in Unity for fun
+- Old PCs/Laptops
+- Old game consoles (like the Nintendo DS and GBA)
 
-Here are some ideas to get you started:
+### Stuff I like:
+- Every Windows version (except 11)
+- ExplorerPatcher
+- Air conditioning
+- Home servers
+- The backspace key
+- Finally reaching level 30 in Minecraft after 30 minutes
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stuff I dislike:
+- Windows 11
+- Insects
+- Windows Defender flagging ExplorerPatcher as a threat
+- Misclicks
+
+You can also check out my blog [here](https://boks-oks.github.io). I try to post stuff there daily.
